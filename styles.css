@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    background-color: mintcream;
+}
+
+h1,
+h2 {
+    color: blue;
+    background-color: burlywood;
+    font-style: italic;
+}
+
+.desc {
+    font-style: oblique;
+    background-color: cornsilk;
+    font-size: larger;
+}
+
+ul,
+ol {
+    background-color: cornsilk;
+    font-size: larger;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.large-img {
+    width: 800px;
+    height: auto;
+}
+
+a {
+    font-size: 38px;
+    font-family: Helvetica, sans-serif;
+}
